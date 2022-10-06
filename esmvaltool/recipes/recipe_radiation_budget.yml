@@ -2,7 +2,7 @@
 # recipe_radiation_budget.yml
 ---
 documentation:
-  title: Radiation Budget
+  title: Radiation Budget TESTING
   description:
     This diagnostic analyses the radiation budget by separating top-of-atmosphere
     fluxes into clear-sky and cloud forcing components, and surface fluxes into
